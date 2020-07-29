@@ -11,7 +11,7 @@ const swaggerOptions = {
     swaggerDefinition: {
         info: {
             title: 'Homework1-Backend API',
-            description: 'Es una de 2 tareas para buscar la oportunidad de entrar a un proyecto con Raiffeisen Latina',
+            description: 'Es una de 2 tareas para buscar la oportunidad de entrar a un proyecto con Raiffeisen Latina\n\n ***\n ## Descripción:\n **Desarrollar una api en ExpressJS y montarla en Heroku.**\n * La api debe traer una lista de items que contengan los campos: id, name, price, quantity; agregar al menos 20 items con cantidades (quantity) diferentes a 1. Generar url.\n * La api debe traer el total. Generar url\n * La api debe traer el promedio de los precios. Generar url',
             contact: {
                 name: 'Eduardo Rodriguez Ricardez'
             },
